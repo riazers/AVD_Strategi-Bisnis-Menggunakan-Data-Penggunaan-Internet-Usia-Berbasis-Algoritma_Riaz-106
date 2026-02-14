@@ -4,7 +4,9 @@
 Riaz Ramadhan Al Fattah (2509116106)
 
 
-POST TEST (1) AVD Strategi Bisnis Menggunakan Data Penggunaan Internet &amp; Usia Berbasis Algoritma
+POST TEST (1) AVD "Strategi Bisnis Menggunakan Data Penggunaan Internet &amp; Usia Berbasis Algoritma"
 
 
 Kaggle Dataset Link: https://www.kaggle.com/datasets/jayjoshi37/daily-internet-usage-statistics-by-age-group
+
+## See more in: AVD_CHECKPOINT_(1)_SMT_2.ipynb
