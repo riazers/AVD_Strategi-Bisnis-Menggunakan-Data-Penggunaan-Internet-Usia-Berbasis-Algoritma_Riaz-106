@@ -6,6 +6,6 @@
 
 ### Insight 
 
-Perusahaan memiliki peluang besar untuk menyalurkan algoritma secara lebih efektif dengan beralih dari pendekatan demografis umum menjadi pendekatan berbasis konteks perilaku dan kebutuhan psikologis yang diwakili oleh data.
+Perusahaan memiliki peluang besar untuk menyalurkan algoritma secara lebih efektif dengan beralih dari pendekatan demografis umum menjadi pendekatan berbasis konteks perilaku dan kebutuhan psikologis yang diwakili oleh data. Dengan menerapkan business understanding seperti di file, perusahaan dapat bergerak melampaui intuisi dalam pengambilan keputusan strategis. Seperti yang diungkapkan dalam literatur, era sekarang menuntut pergeseran dari intuition-based menjadi data-driven decision making, di mana data berfungsi sebagai "lampu depan" yang menerangi jalan menuju kesuksesan bisnis yang lebih terukur dan kompetitif. 
 
-Dengan menerapkan rekomendasi di atas, perusahaan dapat bergerak melampaui intuisi dalam pengambilan keputusan strategis. Seperti yang diungkapkan dalam literatur, era sekarang menuntut pergeseran dari intuition-based menjadi data-driven decision making, di mana data berfungsi sebagai "lampu depan" yang menerangi jalan menuju kesuksesan bisnis yang lebih terukur dan kompetitif. Sumber: https://www.digisaurus.id/peran-data-dalam-pengambilan-keputusan-bisnis-modern-dari-intuisi-ke-insight/
+Sumber: https://www.digisaurus.id/peran-data-dalam-pengambilan-keputusan-bisnis-modern-dari-intuisi-ke-insight/
