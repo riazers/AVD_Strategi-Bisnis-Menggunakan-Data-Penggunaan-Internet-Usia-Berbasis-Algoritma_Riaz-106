@@ -12,4 +12,4 @@ AVD Checkpoint 1 : https://github.com/riazers/AVD_Strategi-Bisnis-Menggunakan-Da
 
 
 # AVD-Checkpoint-2-SMT-2
-AVD Checkpoint 2 :
+AVD Checkpoint 2 : https://github.com/riazers/AVD_Strategi-Bisnis-Menggunakan-Data-Penggunaan-Internet-Usia-Berbasis-Algoritma_Riaz-106/tree/43660dd2614fbd25d5e374f50fb0a3abe7b22128/Checkpoint%202
