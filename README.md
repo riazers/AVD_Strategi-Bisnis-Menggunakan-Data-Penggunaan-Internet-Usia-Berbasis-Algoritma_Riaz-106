@@ -1,6 +1,8 @@
 ### The Business Strategy Insight
 
-Perusahaan memiliki peluang besar untuk menyalurkan algoritma secara lebih efektif dengan beralih dari pendekatan demografis umum menjadi pendekatan berbasis konteks perilaku dan kebutuhan psikologis yang diwakili oleh data. Dengan menerapkan business understanding seperti di file, perusahaan dapat bergerak melampaui intuisi dalam pengambilan keputusan strategis. Seperti yang diungkapkan dalam literatur, era sekarang menuntut pergeseran dari intuition-based menjadi data-driven decision making, di mana data berfungsi sebagai "lampu depan" yang menerangi jalan menuju kesuksesan bisnis yang lebih terukur dan kompetitif. 
+Perusahaan memiliki peluang besar untuk menyalurkan algoritma secara lebih efektif dengan beralih dari pendekatan demografis umum menjadi pendekatan berbasis konteks perilaku dan kebutuhan psikologis yang diwakili oleh **data**. 
+
+Dengan menerapkan **Business Understanding** seperti di file, perusahaan dapat bergerak melampaui intuisi dalam pengambilan keputusan strategis. Seperti yang diungkapkan dalam literatur, era sekarang menuntut pergeseran dari intuition-based menjadi **data-driven decision making**, di mana data berfungsi sebagai "lampu depan" yang menerangi jalan menuju kesuksesan bisnis yang lebih terukur dan kompetitif. 
 
 
 
