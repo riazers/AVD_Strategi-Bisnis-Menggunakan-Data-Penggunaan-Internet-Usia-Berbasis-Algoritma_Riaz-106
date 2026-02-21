@@ -11,3 +11,5 @@ Perusahaan memiliki peluang besar untuk menyalurkan algoritma secara lebih efekt
 AVD Checkpoint 1 : https://github.com/riazers/AVD_Strategi-Bisnis-Menggunakan-Data-Penggunaan-Internet-Usia-Berbasis-Algoritma_Riaz-106/tree/abf2d2c2a673f6e89c1172bbd640715fa2f744ef/Checkpoint%201
 
 
+# AVD-Checkpoint-2-SMT-2
+AVD Checkpoint 2 :
