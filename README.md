@@ -22,3 +22,12 @@ AVD Checkpoint 1 : https://github.com/riazers/AVD_Strategi-Bisnis-Menggunakan-Da
 </p>
 
 AVD Checkpoint 2 : https://github.com/riazers/AVD_Strategi-Bisnis-Menggunakan-Data-Penggunaan-Internet-Usia-Berbasis-Algoritma_Riaz-106/tree/43660dd2614fbd25d5e374f50fb0a3abe7b22128/Checkpoint%202
+
+
+# AVD-Checkpoint-3-SMT-2
+
+<p align="center">
+<img width="400" height="300" alt="Copy of Blue and White Gradient Modern Sneakers Poster (1)" src="https://github.com/user-attachments/assets/6e8c0685-8cfe-4000-9760-72b223d42e75" />
+</p>
+
+AVD Checkpoint 3 :
